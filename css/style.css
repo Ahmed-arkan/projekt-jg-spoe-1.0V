@@ -224,12 +224,14 @@
 	form .form-group:first-child .floating-label-form-group{
 	border-top:1px solid #dee2e6
 	}
-	footer{
-	padding:50px 0 65px
+	footer {
+    padding-left: 40%;
+    padding-bottom: 40px;
+    padding-top: 40px;
 	}
 	footer .list-inline{
-	margin:0;
-	padding:0
+	margin:10;
+	padding:10
 	}
 	footer .copyright{
 	font-size:14px;
@@ -261,7 +263,7 @@
 	.text-center{
 	width: 20rem; 
 	float: right; 
-	margin-right: 20px;
+	
 	}
 	.cam{
 	width: 220px;
@@ -273,7 +275,7 @@
 	background:0 0
 	}
 	#mainNav .navbar-brand{
-	padding:10px 20px;
+	padding:8px 20px;
 	color:#fff
 	}
 	#mainNav .navbar-brand:focus,#mainNav .navbar-brand:hover{
@@ -356,6 +358,11 @@
 	.post-preview>a>.post-title{
 	font-size:36px
 	}
+	footer {
+    padding-left: 43%;
+    padding-bottom: 40px;
+    padding-top: 40px;
+	}
 }
 
 
@@ -378,6 +385,21 @@
 	width: 90%;
 	margin: 0 auto;
 	}
+	footer {
+    padding-left: 40%;
+    padding-bottom: 40px;
+    padding-top: 40px;
+	}
+}
+
+@media only screen and (max-width:700px){
+
+	footer {
+	padding-left: 30%;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	}
+
 }
 
 	@media only screen and (max-width:553px){
@@ -391,6 +413,11 @@
 	}
 	h2{
 	font-size: 20px;
+	}
+	footer {
+    padding-left: 25%;
+    padding-bottom: 40px;
+    padding-top: 40px;
 	}
 }
 
