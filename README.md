@@ -1,1 +1,0 @@
-# projekt-jg-spoe-1.0V
