@@ -5,8 +5,7 @@
 	width: 100%;
 	text-align: left;
 	font: bold 16px sans-serif;
-
-	padding: 35px 35px;
+	padding: 15px 5px 15px 50px;
 	margin-top: 20px;
 }
 
@@ -20,7 +19,9 @@
 /* Footer left */
 
 .footer-distributed .footer-left{
-	width: 40%;
+	width: 36%;
+	margin-bottom: 10px;
+	margin-top: 25px;
 }
 
 /* The company logo */
@@ -60,7 +61,7 @@
 /* Footer Center */
 
 .footer-distributed .footer-center{
-	width: 35%;
+	width: 43.1%;
 }
 
 .footer-distributed .footer-center i{
@@ -97,7 +98,7 @@
 
 .footer-distributed .footer-center p a{
 	color:  #5383d3;
-	text-decoration: none;;
+	text-decoration: none;
 }
 
 
@@ -119,12 +120,7 @@
 	display: block;
 	color:  #ffffff;
 	font-size: 14px;
-	font-weight: bold;
 	margin-bottom: 10px;
-	margin-top: 25px;
-}
-
-.footer-distributed .footer-icons{
 	margin-top: 25px;
 }
 
@@ -158,10 +154,11 @@ text-decoration: none;
 
 /* If you don't want the footer to be responsive, remove these media queries */
 
-@media (max-width: 880px) {
+@media (max-width: 1070px) {
 
 	.footer-distributed{
 		font: bold 14px sans-serif;
+		padding: 15px 15px ;
 	}
 
 	.footer-distributed .footer-left,
