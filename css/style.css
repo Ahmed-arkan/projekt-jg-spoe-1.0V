@@ -1,6 +1,4 @@
-    div {
-    	border: 1px solid black;
-    }
+    
 	body {
 	font-size:20px;
 	color:#212529;
@@ -453,6 +451,8 @@
 	}
 }
 
-
+#facts {
+	border: 5px solid red;
+}
 
 
