@@ -453,4 +453,10 @@
 	border: 5px solid red;
 }
 
-
+.footer {
+  margin-top: 5rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color:#87898B;
+  color: #fff;
+}
